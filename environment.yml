@@ -1,5 +1,6 @@
 name: python-ml
 dependencies:
+  - python==3.5.2
   - numpy==1.11.1
   - scipy==0.17.1
   - scikit-learn==0.18
